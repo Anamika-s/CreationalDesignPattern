@@ -1,0 +1,6 @@
+C:\Users\Win7\source\repos\SingletonPatternDemo\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.exe.config
+C:\Users\Win7\source\repos\SingletonPatternDemo\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.exe
+C:\Users\Win7\source\repos\SingletonPatternDemo\FactoryPatternDemo\bin\Debug\FactoryPatternDemo.pdb
+C:\Users\Win7\source\repos\SingletonPatternDemo\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Win7\source\repos\SingletonPatternDemo\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.exe
+C:\Users\Win7\source\repos\SingletonPatternDemo\FactoryPatternDemo\obj\Debug\FactoryPatternDemo.pdb

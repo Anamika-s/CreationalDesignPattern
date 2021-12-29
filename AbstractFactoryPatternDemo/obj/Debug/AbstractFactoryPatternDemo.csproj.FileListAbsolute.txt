@@ -1,0 +1,7 @@
+C:\Users\Win7\source\repos\SingletonPatternDemo\AbstractFactoryPatternDemo\bin\Debug\AbstractFactoryPatternDemo.exe.config
+C:\Users\Win7\source\repos\SingletonPatternDemo\AbstractFactoryPatternDemo\bin\Debug\AbstractFactoryPatternDemo.exe
+C:\Users\Win7\source\repos\SingletonPatternDemo\AbstractFactoryPatternDemo\bin\Debug\AbstractFactoryPatternDemo.pdb
+C:\Users\Win7\source\repos\SingletonPatternDemo\AbstractFactoryPatternDemo\obj\Debug\AbstractFactoryPatternDemo.csprojAssemblyReference.cache
+C:\Users\Win7\source\repos\SingletonPatternDemo\AbstractFactoryPatternDemo\obj\Debug\AbstractFactoryPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Win7\source\repos\SingletonPatternDemo\AbstractFactoryPatternDemo\obj\Debug\AbstractFactoryPatternDemo.exe
+C:\Users\Win7\source\repos\SingletonPatternDemo\AbstractFactoryPatternDemo\obj\Debug\AbstractFactoryPatternDemo.pdb

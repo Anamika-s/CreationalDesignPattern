@@ -1,0 +1,7 @@
+C:\Users\Win7\source\repos\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\SingletonPatternDemo.exe.config
+C:\Users\Win7\source\repos\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\SingletonPatternDemo.exe
+C:\Users\Win7\source\repos\SingletonPatternDemo\SingletonPatternDemo\bin\Debug\SingletonPatternDemo.pdb
+C:\Users\Win7\source\repos\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\SingletonPatternDemo.csprojAssemblyReference.cache
+C:\Users\Win7\source\repos\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\SingletonPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\Win7\source\repos\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\SingletonPatternDemo.exe
+C:\Users\Win7\source\repos\SingletonPatternDemo\SingletonPatternDemo\obj\Debug\SingletonPatternDemo.pdb
